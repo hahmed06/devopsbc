@@ -1,0 +1,3 @@
+echo "this is my shell file"
+ls -lh
+
